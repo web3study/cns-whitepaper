@@ -68,7 +68,8 @@
 ## 三、体系结构
 
 1. 原理框图
-	![image.png](assets/image-20220921111942-n0xjfeb.png)
+
+![image.png](assets/image-20220921111942-n0xjfeb.png)
 
 2. 界面介绍
 
